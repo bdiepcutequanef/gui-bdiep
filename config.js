@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Không, Lá vẫn giận :3',
     question:'Thực ra thì BDiep cute lắm á, nên đừng giận nữa nha ! ',
     btnReply: 'Gửi nef :> !! ',
-    reply: 'toi bị lây cute bởi bạn á !! LÁ hết giận r mà :> ',
+    reply: 'LÁ hết giận r mà :> ',
     mess: 'toi biết mà 🥰. XinLoi vì lừa lá nhó , lần sau mà lừa làm chó ',
     messDesc: 'Hết giãn cách về HaiPhong LÁ nhá . ',
     btnAccept: 'Okiiiii lun !!',
